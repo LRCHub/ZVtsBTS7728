@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BOOST",
+  "base_artist": "Snow Man",
+  "createdAt": "2025-12-01T06:58:00.267134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Woo-Boost (Borgore Remix)",
+      "artist": "Rusko",
+      "has_synced": true,
+      "path": "select/01_Woo-Boost_(Borgore_Remix)_Rusko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Woo Boost - Subskrpt Edit",
+      "artist": "Rusko",
+      "has_synced": true,
+      "path": "select/02_Woo_Boost_-_Subskrpt_Edit_Rusko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Woo Boost (Subskrpt Edit)",
+      "artist": "Rusko",
+      "has_synced": true,
+      "path": "select/03_Woo_Boost_(Subskrpt_Edit)_Rusko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Woo Boost - Toadally Krossed Out Remix",
+      "artist": "Rusko",
+      "has_synced": false,
+      "path": "select/04_Woo_Boost_-_Toadally_Krossed_Out_Remix_Rusko.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Woo Boost (Toadally Krossed Out Remix)",
+      "artist": "Rusko",
+      "has_synced": false,
+      "path": "select/05_Woo_Boost_(Toadally_Krossed_Out_Remix)_Rusko.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boost!",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/06_Boost!_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Double Boost!",
+      "artist": "SEGA SOUND TEAM feat. Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/07_Double_Boost!_SEGA_SOUND_TEAM_feat._Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Double Boost!",
+      "artist": "Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/08_Double_Boost!_Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BOOST ANIMA",
+      "artist": "KANKAN feat. Kairiki Bear",
+      "has_synced": true,
+      "path": "select/09_BOOST_ANIMA_KANKAN_feat._Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BOOST ANIMA",
+      "artist": "KANKAN/Kairikibear",
+      "has_synced": true,
+      "path": "select/10_BOOST_ANIMA_KANKAN_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yes I am (Funk boost ver.)",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/11_Yes_I_am_(Funk_boost_ver.)_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Central Bass Boost (600k)",
+      "artist": "HBz",
+      "has_synced": true,
+      "path": "select/12_Central_Bass_Boost_(600k)_HBz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Back Bone (feat. Aystar & Tiny Boost)",
+      "artist": "Giggs feat. Aystar & Tiny Boost",
+      "has_synced": false,
+      "path": "select/13_No_Back_Bone_(feat._Aystar_&_Tiny_Boost)_Giggs_feat._Aystar_&_Tiny_Boost.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Booster",
+      "artist": "TOKIO",
+      "has_synced": false,
+      "path": "select/pl_01_Booster_TOKIO.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Booster",
+      "artist": "TOKIO",
+      "has_synced": false,
+      "path": "select/pl_02_Booster_TOKIO.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "BOOSTER",
+      "artist": "TOKIO",
+      "has_synced": false,
+      "path": "select/pl_03_BOOSTER_TOKIO.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Booster",
+      "artist": "TOKIO",
+      "has_synced": false,
+      "path": "select/pl_04_Booster_TOKIO.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Booster",
+      "artist": "TOKIO",
+      "has_synced": false,
+      "path": "select/pl_05_Booster_TOKIO.txt"
+    }
+  ]
+}
